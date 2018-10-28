@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/help_button_toolbar"
+        android:icon="@drawable/help_button_icon"
+        android:title="@string/helpbutton"
+        app:showAsAction="ifRoom|withText" />
+    <!--<Webview-->
+        <!--android:id="@+id/Webview"-->
+        <!--android:layout_width="math_parent"-->
+        <!--android:layout_height="math_parent">-->
+    <!--</Webview>-->
+
+</menu>

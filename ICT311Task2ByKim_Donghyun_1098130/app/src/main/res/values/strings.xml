@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Title">Enter a title </string>
+    <string name="StoreName">Enter a name of Store.</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Checked</string>
+    <string name="date_picker_title">Date of visited:</string>
+    <string name="new_crime">New Crime</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$s Receipts</string>
+    <string name="crime_suspect_text">Share With Friends</string>
+    <string name="crime_report_text">Send Error Report</string>
+    <string name="crime_report">%1$s!    The Receipt was discovered on %2$s. %3$s, and %4$s  </string>
+    <string name="crime_report_solved">The Receipt is checked</string>
+    <string name="crime_report_unsolved">The Receipt is not checked</string>
+    <string name="crime_report_no_suspect">there is no Contact Detail.</string>
+    <string name="crime_report_suspect">the Contact Detail is %s.</string>
+    <string name="crime_report_subject">CriminalIntent Crime Report</string>
+    <string name="send_report">Send error report via</string>
+    <string name="delete_crime">Delete the Crime</string>
+    <string name="helpbutton">help button for user</string>
+    <string name="GetLocation">GetLocation</string>
+
+</resources>
