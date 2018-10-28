@@ -25,5 +25,6 @@
     <string name="delete_crime">Delete the Crime</string>
     <string name="helpbutton">help button for user</string>
     <string name="GetLocation">GetLocation</string>
+    <string name="Comment">Type the comment</string>
 
 </resources>
